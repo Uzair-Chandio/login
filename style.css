@@ -1,0 +1,46 @@
+body {
+    background-color: lightblue; 
+    font-family: Arial, sans-serif;
+    color: gray;
+    text-align: center;
+     
+}
+
+
+h1 {
+    color: blue; 
+    text-transform: uppercase;
+  
+    
+}
+
+
+h2 {
+    color: green; 
+    font-style: italic;
+    font-weight: normal;
+   
+}
+
+
+label ,p{
+    font-weight: bold;
+    font-size: 14px;
+    color: black;
+ 
+}
+
+
+input {
+    background-color: white;
+    color: gray;
+    font-family: monospace; 
+
+}
+
+
+a {
+    color: orange; 
+    font-weight: bold;
+   
+}
