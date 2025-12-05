@@ -1,3 +1,9 @@
+@font-face{
+    font-family: 'Bitcount';
+    src: url('fonts/BitcountPropSingle-VariableFont_CRSV,ELSH,ELXP,slnt,wght.ttf') ;
+ 
+   
+}
 body {
     background-color: lightblue; 
     font-family: Arial, sans-serif;
@@ -10,16 +16,18 @@ body {
 h1 {
     color: blue; 
     text-transform: uppercase;
-  
-    
+    font-family: 'Bitcount', sans-serif;
+      font-style: italic;
+    font-weight: 600;
+    font-size: 42px;
 }
 
 
 h2 {
     color: green; 
-    font-style: italic;
+  
     font-weight: normal;
-   
+    font-family: 'Bitcount', sans-serif;
 }
 
 
@@ -27,6 +35,8 @@ label ,p{
     font-weight: bold;
     font-size: 14px;
     color: black;
+      font-weight: normal;
+    font-family: 'Bitcount', sans-serif;
  
 }
 
